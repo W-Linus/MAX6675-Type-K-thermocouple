@@ -1,0 +1,2 @@
+#MAX6675 K型热电偶测温
+##使用STM32G030F6P6 以及STM32CubeMX

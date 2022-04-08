@@ -1,0 +1,1 @@
+stm32g030f6p6_max6675\startup_stm32g030xx.o: startup_stm32g030xx.s
